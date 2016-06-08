@@ -1,0 +1,5 @@
+Django==1.9.2
+BeautifulSoup
+mechanize
+gunicorn==19.4.5
+whitenoise==2.0.6
