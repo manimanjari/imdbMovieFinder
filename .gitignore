@@ -1,1 +1,18 @@
+#all .pyc files
+# all pyc files
 *.pyc
+
+# virtualenv
+venv/
+ENV/
+
+# django stuff:
+*.log
+settings.pyc
+
+#all json files
+*.json
+
+*~
+DEADJOE
+media/temp
